@@ -1,2 +1,4 @@
-# HelloWorld
- Reposirório do Curso Git e GitHub
+# Hello, World!
+ Repositório do Curso Git e GitHub
+
+Atualizando REDME.md
